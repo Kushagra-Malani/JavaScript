@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+  }
+  
+  .myLabel input {
+    color: black;
+  }
+  
+  .container {
+    background-color: #212121;
+    color: #ffff;
+  }
+  .resButton {
+    border-radius: 4px;
+    padding: 10px 24px;
+    color: #212121;
+  }
+  
+  .resButton:hover {
+    background-color: #04aa6d;
+    color: white;
+  }
+  
